@@ -1,9 +1,9 @@
 # ns-2.34-allinone
-#WARNING -> Before start NS-2 instalation do it: In the Terminal Linux install this programs: 
+## WARNING -> Before start NS-2 instalation do it: In the Terminal Linux install this programs: 
 
-$sudo apt-get update; sudo apt-get install build-essential autoconf automake libxmu-dev xorg-dev gcc g++
+# ```$sudo apt-get update; sudo apt-get install build-essential autoconf automake libxmu-dev xorg-dev gcc g++```
 
-NS-2 bugs free installation, and with OLSR Protocol!!!
+# NS-2 bugs free installation, and with OLSR Protocol!!!
 
 1. Introduction
 ----------------
