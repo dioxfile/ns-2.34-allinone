@@ -2,7 +2,7 @@
 ## WARNING -> Before starting the installation of NS-2, install the following programs via apt-get:
 ##### ```$sudo apt-get update && sudo apt-get install build-essential autoconf automake libxmu-dev xorg-dev gcc g++```
 
-# NS-2 bugs free installation, and with OLSR Protocol!!!
+# NS-2 bugs free installation, and with OLSR (UM-OLSR) Protocol Developed by Francisco J. Ros from Murcia University!!!
 
 1. Introduction
 ----------------
