@@ -2,18 +2,18 @@
 ## WARNING -> Before starting the installation of NS-2, install the following programs via apt-get:
 ##### ```$ sudo apt-get update && sudo apt-get install build-essential autoconf automake libxmu-dev xorg-dev gcc g++```
 
-# NS-2 bugs free installation, and with OLSR (UM-OLSR) Protocol Developed by Francisco J. Ros from Murcia University!!!
+# NS-2 bugs-free installation, and with OLSR (UM-OLSR) Protocol Developed by Francisco J. Ros from Murcia University!!!
 
 1. Introduction
 ----------------
 
-Ns-allinone is a package which contains required components and some of
-optional components used in running ns. The package contains an
-"install" script to automatically configure, compile and install these
-components. If you haven't installed ns before and want to quickly try
+Ns-allinone is a package that contains required components and some of
+the optional components used in running ns. The package contains an
+"install" script to configure, compile, and install these
+components automatically. If you haven't installed ns before and want to quickly try
 ns out, ns-allinone may be easier than getting all the pieces by hand.
  
-Currently the package contains:
+Currently, the package contains:
   
 - Tcl       Tcl release 8.4.18    (required component)
 - Tk        Tk release 8.4.18     (required component)
@@ -35,14 +35,14 @@ Currently the package contains:
 Features in this version include:
  
 - Self-containing: All installation will be kept in a directory to help
-		   the user manange and use the package. The execution of ns
-		   ns or nam does not need any ther support outside
+		   the user manages and uses the package. The execution of ns
+		   ns or nam does not need any other support outside
 		   this directory
 
 - Bugs fixed:      All components inside the package, are the most recent 
                    versions;
 
-- Easy to use :    Only one-line command is needed to build all ns
+- Easy to use:    Only one-line command is needed to build all ns
 		   components
 
 3. Installing the package
@@ -66,7 +66,7 @@ The nsnam Project
 http://www.nsnam.org
 
 <<<<<<< HEAD
-# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint 20.3 with success and without bugs!!!
+# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint 20.3 successfully and without bugs!!!
 =======
-# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint (20.3 and 21) with success and without bugs!!!
+# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint (20.3 and 21) successfully and without bugs!!!
 >>>>>>> 2d40a3b4019846cac84169b098a7a3ebd77f1c79
