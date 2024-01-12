@@ -4,7 +4,7 @@
 
 # NS-2 bugs-free installation, and with OLSR (UM-OLSR) Protocol Developed by Francisco J. Ros from Murcia University!!!
 
-1. Introduction
+## 1. Introduction
 ----------------
 
 Ns-allinone is a package that contains required components and some of
@@ -29,7 +29,7 @@ Currently, the package contains:
 - CWEB      CWeb version 1.0 (?)  (optional component)
 - ZLib      zlib version 1.2.3    (optional component) 
 
-2. FEATURES IN ns-allinone-2.34
+## 2. FEATURES IN ns-allinone-2.34
 -------------------------------
 
 Features in this version include:
@@ -45,7 +45,7 @@ Features in this version include:
 - Easy to use:    Only one-line command is needed to build all ns
 		   components
 
-3. Installing the package
+## 3. Installing the package
 --------------------------
 
 All you need to do is type "./install" under this directory. The install
@@ -53,7 +53,7 @@ script will compile and install the whole package for you. The script also
 will tell you the final installation result.
 
 
-4. More information
+## 4. More information
 --------------------
 
 Ns-allinone is available from
@@ -67,7 +67,7 @@ http://www.nsnam.org
 
 =======
 # OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint (20.3 and 21) successfully and without bugs!!!
-Sha256sum ae216aeaf3a95b07cb996f408116b449264d77ee252e5258d3405b48e69fe50e
+### Sha256sum ae216aeaf3a95b07cb996f408116b449264d77ee252e5258d3405b48e69fe50e
 
-Md5 688d8d5905415b911e4e84f8db7f2aa3
+### Md5 688d8d5905415b911e4e84f8db7f2aa3
 
