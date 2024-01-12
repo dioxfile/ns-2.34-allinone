@@ -29,7 +29,7 @@ Currently, the package contains:
 - CWEB      CWeb version 1.0 (?)  (optional component)
 - ZLib      zlib version 1.2.3    (optional component) 
 
-2. FEATURES IN ns-allinone-2.32
+2. FEATURES IN ns-allinone-2.34
 -------------------------------
 
 Features in this version include:
