@@ -65,8 +65,6 @@ or
 The nsnam Project
 http://www.nsnam.org
 
-<<<<<<< HEAD
-# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint 20.3 successfully and without bugs!!!
 =======
 # OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint (20.3 and 21) successfully and without bugs!!!
->>>>>>> 2d40a3b4019846cac84169b098a7a3ebd77f1c79
+2d40a3b4019846cac84169b098a7a3ebd77f1c79
