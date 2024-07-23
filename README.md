@@ -36,13 +36,13 @@ Features in this version include:
  
 - Self-containing: All installation will be kept in a directory to help
 		   the user manages and uses the package. The execution of ns or nam does not need any other support outside
-		   this directory
+		   this directory;
 
 - Bugs fixed:      All components inside the package, are the most recent 
                    versions;
 
 - Easy to use:    Only one-line command is needed to build all ns
-		   components
+		   components.
 
 ## 3. Installing the package
 --------------------------
