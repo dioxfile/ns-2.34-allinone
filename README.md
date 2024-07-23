@@ -35,8 +35,7 @@ Currently, the package contains:
 Features in this version include:
  
 - Self-containing: All installation will be kept in a directory to help
-		   the user manages and uses the package. The execution of ns
-		   ns or nam does not need any other support outside
+		   the user manages and uses the package. The execution of ns or nam does not need any other support outside
 		   this directory
 
 - Bugs fixed:      All components inside the package, are the most recent 
