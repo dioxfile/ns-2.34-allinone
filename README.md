@@ -70,4 +70,5 @@ http://www.nsnam.org
 
 ### Md5 688d8d5905415b911e4e84f8db7f2aa3
 #OBS: Download this files to test ns installation: normalEnviroment_CBR.tcl, PM_10n_600xy.tcl, and D_cbrTraf4.tcl.
+# For instance: `$ ns normalEnviroment_CBR.tcl`
 
