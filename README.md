@@ -9,8 +9,8 @@
 
 Ns-allinone is a package that contains required components and some of
 the optional components used in running ns. The package contains an
-"install" script to configure, compile, and install these
-components automatically. If you haven't installed ns before and want to quickly try
+"install" script to automatically configure, compile, and install these
+components. If you haven't installed ns before and want to quickly try
 ns out, ns-allinone may be easier than getting all the pieces by hand.
  
 Currently, the package contains:
@@ -48,8 +48,7 @@ Features in this version include:
 --------------------------
 
 All you need to do is type "./install" under this directory. The install
-script will compile and install the whole package for you. The script also
-will tell you the final installation result.
+script will compile and install the whole package for you. The script will also give you the final installation result.
 
 
 ## 4. More information
@@ -65,10 +64,10 @@ The nsnam Project
 http://www.nsnam.org
 
 =======
-# OBS - This NS-2 version was installed in Linux Debian 11 and Linux Mint (20.3 and 21) successfully and without bugs!!!
+# OBS - This NS-2 version was successfully installed in Linux Debian 11 and Linux Mint (20.3 and 21) without bugs!!!
 ### Sha256sum ae216aeaf3a95b07cb996f408116b449264d77ee252e5258d3405b48e69fe50e
 
 ### Md5 688d8d5905415b911e4e84f8db7f2aa3
-# OBS: Download this files to test ns installation: normalEnviroment_CBR.tcl, PM_10n_600xy.tcl, and D_cbrTraf4.tcl.
-For instance:  `$ ns normalEnviroment_CBR.tcl`
+### OBS: Download this files to test ns installation: normalEnviroment_CBR.tcl, PM_10n_600xy.tcl, and D_cbrTraf4.tcl.
+### For instance:  `$ ns normalEnviroment_CBR.tcl`
 
