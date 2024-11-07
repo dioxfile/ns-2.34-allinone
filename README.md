@@ -69,6 +69,6 @@ http://www.nsnam.org
 ### Sha256sum ae216aeaf3a95b07cb996f408116b449264d77ee252e5258d3405b48e69fe50e
 
 ### Md5 688d8d5905415b911e4e84f8db7f2aa3
-#OBS: Download this files to test ns installation: normalEnviroment_CBR.tcl, PM_10n_600xy.tcl, and D_cbrTraf4.tcl.
+# OBS: Download this files to test ns installation: normalEnviroment_CBR.tcl, PM_10n_600xy.tcl, and D_cbrTraf4.tcl.
 # For instance: `$ ns normalEnviroment_CBR.tcl`
 
